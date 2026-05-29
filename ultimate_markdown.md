@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # 🚀 The Ultimate Practice File
 
 Welcome to your Markdown sandbox! This is a space to test **bold moves**, *italicized thoughts*, and ~~mistakes that never happened~~.
